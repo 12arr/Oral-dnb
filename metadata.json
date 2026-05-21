@@ -1,0 +1,6 @@
+{
+  "name": "Oral DNB - IA et Métiers",
+  "description": "Un site d'accompagnement moderne pour préparer l’oral de brevet (3e) sur l'impact de l'IA sur les métiers. Comprend des données clés, des graphiques, un simulateur et un coach vocal/textuel IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
